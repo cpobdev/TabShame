@@ -1,8 +1,8 @@
 // background.js
 
 var green = {color: [0, 190, 0, 255]};
-var yellow = {color: [244, 238, 66, 255]};
-var orange = {color: [255, 168, 30, 255]};
+var yellow = {color: [232, 225, 30, 100]};
+var orange = {color: [255, 150, 30, 255]};
 var red = {color: [255, 0, 0, 255]};
 
 function updateTabCount() {
